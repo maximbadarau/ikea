@@ -1,0 +1,16 @@
+IIIIIIIIIIKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEE               AAA               
+I::::::::IK:::::::K    K:::::KE::::::::::::::::::::E              A:::A              
+I::::::::IK:::::::K    K:::::KE::::::::::::::::::::E             A:::::A             
+II::::::IIK:::::::K   K::::::KEE::::::EEEEEEEEE::::E            A:::::::A            
+  I::::I  KK::::::K  K:::::KKK  E:::::E       EEEEEE           A:::::::::A           
+  I::::I    K:::::K K:::::K     E:::::E                       A:::::A:::::A          
+  I::::I    K::::::K:::::K      E::::::EEEEEEEEEE            A:::::A A:::::A         
+  I::::I    K:::::::::::K       E:::::::::::::::E           A:::::A   A:::::A        
+  I::::I    K:::::::::::K       E:::::::::::::::E          A:::::A     A:::::A       
+  I::::I    K::::::K:::::K      E::::::EEEEEEEEEE         A:::::AAAAAAAAA:::::A      
+  I::::I    K:::::K K:::::K     E:::::E                  A:::::::::::::::::::::A     
+  I::::I  KK::::::K  K:::::KKK  E:::::E       EEEEEE    A:::::AAAAAAAAAAAAA:::::A    
+II::::::IIK:::::::K   K::::::KEE::::::EEEEEEEE:::::E   A:::::A             A:::::A   
+I::::::::IK:::::::K    K:::::KE::::::::::::::::::::E  A:::::A               A:::::A  
+I::::::::IK:::::::K    K:::::KE::::::::::::::::::::E A:::::A                 A:::::A 
+IIIIIIIIIIKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEEAAAAAAA                   AAAAAAA

@@ -1,0 +1,38 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>All Power of Attorney</title>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1> Inventory </h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th> ID </th>
+                    <th> Name</th>
+                    <th> Stock</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr th:if="${inventories.isEmpty()}">
+                    <td colspan="2"> No inventories available</td>
+                </tr>
+                <tr th:each="inventory : ${inventories}">
+                    <td><span th:text="${inventory.articleId}"> ID </span></td>
+                    <td><span th:text="${inventory.name}"> Name </span></td>
+                    <td><span th:text="${inventory.stock}"> Stock </span></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
