@@ -1,4 +1,4 @@
-# BETest
+# Ikea Test Assignment
 
  ## Intro: 
  This is a distributed architecture environment playground.
@@ -72,5 +72,5 @@ Listed commands bellow are executed through terminal.
 * HAL have been also implemented.
 * Removed collection key in order to exclude wrapper POJOs for uploading from JSON files.
 * There is a fancy banner with: Ikea :) 
-* For any questions available on +31631551423 or by email: maxim.badarau@gmail.com
+* For any questions ask for my contact details.
 * Also, would like to thank for this opportunity, not sure if I would have another chance (in case of system generated unfortunately letter)
